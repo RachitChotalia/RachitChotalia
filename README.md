@@ -59,10 +59,10 @@ I'm **Rachit Chotalia**, a passionate student and tech enthusiast. I love buildi
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="https://www.linkedin.com/in/rachit-chotalia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:chotaliarachit@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <!-- Add other social links as needed -->
