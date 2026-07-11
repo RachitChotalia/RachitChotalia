@@ -4,7 +4,7 @@
 
 <div style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #111111 100%); padding: 20px; border-radius: 12px; border: 2px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 40px rgba(0,255,65,0.6), inset 0 0 20px rgba(0,255,65,0.1); position: relative; overflow: hidden; width: fit-content;">
 
-**Final-year IT undergrad @ DJSCE, Mumbai** | Backend + Fintech-leaning builder | Design Head @ TEDx DJSCE
+**Final-year IT undergrad @ DJSCE, Mumbai** | Backend + Fintech-leaning builder | Avid Learner
 
 📫 chotaliarachit@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rachit-chotalia) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/u/chotaliarachit)
 
